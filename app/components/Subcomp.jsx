@@ -8,7 +8,7 @@ function Subcomp({ icon, title, desc }) {
     <div className="flex flex-col items-center justify-center h-64 p-6 py-2">
       <div className="h-2/6 flex items-center justify-center">
         <div className="w-12 h-12 border-color flex items-center justify-center">
-          <Image src={icon} width={24} height={24} />
+          <Image src={icon} alt="icon" width={24} height={24} />
         </div>
       </div>
       <div className="h-4/6 flex flex-col items-center justify-center gap-[14px]">

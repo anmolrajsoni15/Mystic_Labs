@@ -17,9 +17,9 @@ function Features() {
   return (
     <div className="flex flex-col h-full gap-[75px] items-center mb-28">
       <div className="flex flex-col w-4/5 items-center justify-center gap-7 px-8">
-        <p className="text-[32px] leading-[44px] font-poppins font-semibold">Don't look across 10s of Documents, just ask.</p>
+        <p className="text-[32px] leading-[44px] font-poppins font-semibold">Don&apos;t look across 10s of Documents, just ask.</p>
         <p className="font-spacegrotesk font-medium text-xl leading-7">
-          Revolutionize Your Team's Productivity with Q/A. No more Repeat Explanations!
+          Revolutionize Your Team&apos;s Productivity with Q/A. No more Repeat Explanations!
         </p>
       </div>
       <div className="flex flex-row w-5/6 gap-6 h-[415px]">
@@ -60,8 +60,8 @@ function Features() {
         <div className="text-center w-2/3 text-xl leading-6 font-medium">
           <p>
             I have to say, I was a bit skeptical about Bloc at first, but after
-            using it for a few days, I'm a believer. The ability to ask simple
-            questions and get immediate answers from our company's knowledge
+            using it for a few days, I&apos;m a believer. The ability to ask simple
+            questions and get immediate answers from our company&apos;s knowledge
             base has been a game-changer.
           </p>
         </div>
@@ -137,8 +137,8 @@ function Features() {
               Join us today and work together with confidence, transparency, and
               accelerated success. Experience the power of Bloc and empower your
               team to effortlessly tackle data with AI-driven insights. And
-              don't forget to check out the waitlist map showcasing the last 20
-              people who joined our community. Let's move towards success
+              don&apos;t forget to check out the waitlist map showcasing the last 20
+              people who joined our community. Let&apos;s move towards success
               together!
             </p>
             <button className="w-44 h-14 bg-[#1C1C1C] rounded-md border-2 border-[#ffffff1a] font-spacegrotesk text-lg leading-6">
